@@ -19,5 +19,3 @@ Skills: HTML, CSS, JavaScript, Bootstrap, PHP, Java, SQL & More.
 - 🌱 I’m currently learning Bootstrap 
 - 👯 I’m looking to collaborate on RSM Developer 
 - 💬 Ask me about Android App And Web Developer 
-
-![Profile views](https://gpvc.arturio.dev/GmMamunH)  
