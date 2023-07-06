@@ -15,8 +15,7 @@ I constantly stay updated with the latest trends and technologies in the field o
 With a strong foundation in programming languages such as Java, Kotlin, HTML, CSS, and JavaScript, I am always eager to take on new challenges and expand my knowledge. I believe that a combination of technical expertise, creativity, and problem-solving skills is essential for delivering exceptional software solutions.
 
 ## 👨‍💻 Skills & Experiance:
-![image](https://github.com/GmMamunH/GmMamunH/assets/134957744/6fb22106-87a0-40e6-9112-25b246dd32d7)
- ### HTML, CSS, JavaScript, Bootstrap, PHP, Java, SQL & More.
+#### ![image](https://github.com/GmMamunH/GmMamunH/assets/134957744/6fb22106-87a0-40e6-9112-25b246dd32d7) HTML, CSS, JavaScript, Bootstrap, PHP, Java, SQL & More.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GmMamunH)](https://github.com/anuraghazra/github-readme-stats)
 
