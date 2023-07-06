@@ -16,7 +16,7 @@ With a strong foundation in programming languages such as Java, Kotlin, HTML, CS
 
 ## 👨‍💻 Skills & Experiance:
 ![image](https://github.com/GmMamunH/GmMamunH/assets/134957744/6fb22106-87a0-40e6-9112-25b246dd32d7)
- HTML, CSS, JavaScript, Bootstrap, PHP, Java, SQL & More.
+ ### HTML, CSS, JavaScript, Bootstrap, PHP, Java, SQL & More.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GmMamunH)](https://github.com/anuraghazra/github-readme-stats)
 
