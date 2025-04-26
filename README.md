@@ -1,10 +1,13 @@
 ![Mamun](./gmmamunh2.gif)
 
 ## Hi there 👋, I'm Md Mamun Hossain
-### Android App And Web Developer
+### Full-Stack JavaScript Developer | React & Next.js Enthusiast | Aspiring Mobile App Developer with React Native | Passionate about Scalable Web and Mobile Solutions
 
-## 🚀 About Me
-With a passion for technology and a keen interest in programming, I have dedicated myself to the world of software development.
+I'm a passionate Full-Stack JavaScript Developer specializing in frontend technologies like React.js, Next.js, and Tailwind CSS.
+Recently, I started my professional journey through an internship at Solvrz, where I expanded my skills in React Native for mobile app development.
+I love building scalable and user-friendly web and mobile applications. I aim to become a versatile Software Engineer capable of handling web and mobile platforms seamlessly.
+
+Technologies I'm currently working with: JavaScript, React, Next.js, Redux, Tailwind CSS, Shadcn UI, Node.js, Express.js, MongoDB, and React Native.
 
 ## 👨‍💻 Skills & Experiance:
 #### ![image](https://github.com/GmMamunH/GmMamunH/assets/134957744/6fb22106-87a0-40e6-9112-25b246dd32d7) HTML, CSS, JavaScript, PHP, Java, SQL & More.
