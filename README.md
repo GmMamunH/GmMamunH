@@ -1,16 +1,16 @@
 ![Mamun](./gmmamunh2.gif)
 
 ## Hi there 👋, I'm Md Mamun Hossain
-### Full-Stack JavaScript Developer | React & Next.js Enthusiast | Aspiring Mobile App Developer with React Native | Passionate about Scalable Web and Mobile Solutions
+I am a Full-Stack Mobile & Web Developer specializing in modern web and mobile application development using React.js, Next.js, and React Native CLI.
 
-I'm a passionate Full-Stack JavaScript Developer specializing in frontend technologies like React.js, Next.js, Tailwind CSS, Shadcn UI.
-Recently, I started my professional journey through an internship at Solvrz, where I expanded my skills in React Native for mobile app development.
-I love building scalable and user-friendly web and mobile applications. I aim to become a versatile Software Engineer capable of handling web and mobile platforms seamlessly.
+With a strong background in Java-based Native Android App Development, I possess deep expertise in building performance-optimized and feature-rich mobile applications.
 
-Technologies I'm currently working with: JavaScript, React, Next.js, Redux, Tailwind CSS, Shadcn UI, Node.js, Express.js, MongoDB, and React Native.
+Currently, I am focusing on Cross-Platform Mobile App Development using React Native CLI and handling full-cycle mobile app projects at the production level for a company.
+
+I am passionate about creating high-performance, user-friendly, and scalable applications by leveraging the latest technologies and best development practices.
 
 ## 👨‍💻 Skills & Experiance:
-#### ![image](https://github.com/GmMamunH/GmMamunH/assets/134957744/6fb22106-87a0-40e6-9112-25b246dd32d7) JavaScript, React, Next.js, Redux, Tailwind CSS, Shadcn UI, Node.js, Express.js, MongoDB, and React Native.
+#### ![image](https://github.com/GmMamunH/GmMamunH/assets/134957744/6fb22106-87a0-40e6-9112-25b246dd32d7) Java, JavaScript, React, Next.js, Redux, Tailwind CSS, Shadcn UI, Node.js, Express.js, MongoDB, and React Native.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GmMamunH)](https://github.com/anuraghazra/github-readme-stats)
 
