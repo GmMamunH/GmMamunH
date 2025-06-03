@@ -1,13 +1,11 @@
 ![Mamun](./gmmamunh2.gif)
 
 ## Hi there 👋, I'm Md Mamun Hossain
-I am a Full-Stack Mobile & Web Developer specializing in modern web and mobile application development using React.js, Next.js, and React Native CLI.
+I am a full-stack mobile and software engineer, proficient in building scalable and performance-driven applications across web and mobile platforms.
+With hands-on experience in React.js, Next.js for web development, and React Native CLI and Java (Android) for mobile app development, I handle end-to-end product engineering.
 
-With a strong background in Java-based Native Android App Development, I possess deep expertise in building performance-optimized and feature-rich mobile applications.
-
-Currently, I am focusing on Cross-Platform Mobile App Development using React Native CLI and handling full-cycle mobile app projects at the production level for a company.
-
-I am passionate about creating high-performance, user-friendly, and scalable applications by leveraging the latest technologies and best development practices.
+Currently working as a Mobile App Intern, I am leading the development of cross-platform mobile applications using React Native CLI in a real-world production environment.
+I love crafting seamless user experiences and writing clean, maintainable code that solves real-world problems.
 
 ## 👨‍💻 Skills & Experiance:
 #### ![image](https://github.com/GmMamunH/GmMamunH/assets/134957744/6fb22106-87a0-40e6-9112-25b246dd32d7) Java, JavaScript, React, Next.js, Redux, Tailwind CSS, Shadcn UI, Node.js, Express.js, MongoDB, and React Native.
